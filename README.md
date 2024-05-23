@@ -1,1 +1,2 @@
-# Pinterest-website
+Project Overview
+The Pinterest-style website will allow users to browse, save, and organize images into collections, much like Pinterest. The primary focus will be on creating a visually appealing, user-friendly interface where images (pins) are displayed in a grid layout. Users will be able to interact with the images by clicking on them to view details, saving them to collections, and searching for specific content.# Pinterest-website
